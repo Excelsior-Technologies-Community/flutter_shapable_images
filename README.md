@@ -16,7 +16,7 @@ A simple and customizable Flutter widget for displaying network images in differ
 ## 📸 Demo
 
 <p align="center">
-  <img src="example/assets/demo.gif" alt="Flutter Shapable Image Demo" width="350">
+  <img src="example/assets/demo.gif" alt="Flutter Shapable Image Demo" width="250">
 </p>
 
 ## 📦 Installation
